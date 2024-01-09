@@ -5,8 +5,6 @@ project:
 website:
   title: "bwu blog"
   site-url: https://brainworkup.org/blog/
-  image: images/logo.png
-  favicon: images/favicon.png
   navbar:
     right:
       - blog.qmd
@@ -17,4 +15,4 @@ website:
 format:
   html:
     theme: cyborg
-    css: src/styles.css
+    css: styles.css
