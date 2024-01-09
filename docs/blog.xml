@@ -5,26 +5,14 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<<<<<<< HEAD
-<title>bwu blog</title>
-=======
 <title>blog</title>
->>>>>>> e1bb10f (redo, first commit)
 <link>https://brainworkup.org/blog/blog.html</link>
 <atom:link href="https://brainworkup.org/blog/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <image>
-<<<<<<< HEAD
 <url>https://brainworkup.org/blog/images/biggie-600.jpg</url>
-<title>bwu blog</title>
-<link>https://brainworkup.org/blog/blog.html</link>
-=======
-<url>https://brainworkup.org/blog/images/logo.png</url>
 <title>blog</title>
 <link>https://brainworkup.org/blog/blog.html</link>
-<height>47</height>
-<width>144</width>
->>>>>>> e1bb10f (redo, first commit)
 </image>
 <generator>quarto-1.4.537</generator>
 <lastBuildDate>Wed, 20 Dec 2023 08:00:00 GMT</lastBuildDate>
