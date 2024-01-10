@@ -1,7 +1,7 @@
 ---
-title: "Articles"
+title: "Writings"
 subtitle: |
-  Articles about neuropsychology, neuroscience, data science, and mental health
+  Articles about me, neuropsychology, neuroscience, data science, and mental health
 image: images/biggie-600.jpg
 listing:
   sort: "date desc"

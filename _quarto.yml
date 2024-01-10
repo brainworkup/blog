@@ -8,9 +8,9 @@ website:
   image: images/logo.png
   favicon: images/favicon.png
   navbar:
-    title: "**brainworkup**"
+    title: "**bwu blog**"
     left:
-      - text: "BlogUp"
+      - text: "Articles"
         href: blog.qmd
     tools:
       - icon: github
@@ -31,5 +31,5 @@ website:
 
 format:
   html:
-    css: src/styles.css
-    theme: [slate, src/theme.scss]
+    css: css/biggie-tailwind.css #css/styles.css
+    theme: [css/slate.scss, src/theme.scss]
