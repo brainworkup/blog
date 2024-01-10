@@ -2,7 +2,6 @@
 title: "Writings"
 subtitle: |
   Articles about me, neuropsychology, neuroscience, data science, and mental health
-image: images/biggie-600.jpg
 listing:
   sort: "date desc"
   contents: "posts/**/index.qmd"
