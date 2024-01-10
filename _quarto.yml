@@ -4,17 +4,32 @@ project:
 
 website:
   title: "blog"
-  site-url: https://brainworkup.org/blog/
+  site-url: https://brainworkup.io/
   image: images/logo.png
   favicon: images/favicon.png
   navbar:
-    right:
-      - blog.qmd
+    title: "**brainworkup**"
+    left:
+      - text: "BlogUp"
+        href: blog.qmd
+    tools:
       - icon: github
-        href: https://github.com/
+        href: https://github.com/brainworkup/brainworkup/
+        aria-label: Github
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/brainworkup/
+        aria-label: Twitter
+      - icon: instagram
+        href: https://instagram.com/brainworkup/
+        aria-label: Instagram
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: https://www.linkedin.com/in/joey-trampush-brainworkup/
+      - icon: rss
+        href: https://brainworkup.org/blog/index.xml
+        aria-label: RSS
+
 format:
   html:
-    theme: cyborg
     css: src/styles.css
+    theme: [slate, src/theme.scss]

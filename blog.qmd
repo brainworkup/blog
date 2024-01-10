@@ -1,5 +1,5 @@
 ---
-title: "bwu blog"
+title: "Articles"
 subtitle: |
   Articles about neuropsychology, neuroscience, data science, and mental health
 image: images/biggie-600.jpg

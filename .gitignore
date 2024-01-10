@@ -15,3 +15,106 @@
 .vscode/settings.json
 
 /.quarto/
+# site_libs/
+# docs/
+/.quarto/
+/.vscode/
+.history/
+# images/
+_notes_on_website_design.md
+
+# /_site/
+.Rproj.user
+# posts/
+# package-lock.json
+# package.json
+yarn.lock
+.dbxignore
+static/
+# netlify.toml
+node_modules/
+# /images/adult-services.png/
+/Users/joey/brainworkup/images/jwt_fighton.jpg
+local/
+_local/
+img/
+data/
+/_local/**
+docs/faq/insurance.md
+docs/pediatric-neuropsychology/nvld.qmd
+docs/pediatric-neuropsychology/adolescent.qmd
+docs/pediatric-neuropsychology/preschool.qmd
+docs/pediatric-neuropsychology/school-age.qmd
+
+.deno_lsp/log_2023-12-21T00_10_53.161998+00_00.txt
+.deno_lsp/log_2023-12-21T00_30_07.467283+00_00.txt
+.deno_lsp/log_2023-12-21T00_30_48.331045+00_00.txt
+.deno_lsp/**.txt
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# R Environment Variables
+.Renviron
+
+
+# translation temp files
+po/*~
+
+# RStudio Connect folder
+rsconnect/
+LIBOPSCriminal-3-PanelOfPsychiatristsPsychologists.pdf
+panel of expert witnesses.pdf
+witnesses.pdf
+
+resources/android-chrome-512x512.png
+color-theme-dark.jsonc
+transparent_colors.txt
+# images/*.png
+images/adhd.png
+images/bwu-logo-transparent.png
+# images/jwt_fitted.jpg
+images/jwt_fitted2.jpg
+_images/
+_prompts.md
+images/DALL·E 2023-12-22 03.05.55 - Create a favicon with a yellow stylized brain design inside a black circle. The design should be clean and without any text, suitable for a favicon fo.png
+images/DALL·E 2023-12-22 03.13.47 - Design a favicon featuring an abstract image of a brain. The brain should convey a sense of pondering outer space. Use a color palette that includes b.png
+images/DALL·E 2023-12-22 03.13.45 - Design a favicon featuring an abstract image of a brain. The brain should convey a sense of pondering outer space. Use a color palette that includes b.png
+services/adult-neuropsychology/adults.png
+services/forensic-neuropsychology/forensic.png
+

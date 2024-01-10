@@ -1,1 +1,1 @@
-Sitemap: https://brainworkup.org/blog/sitemap.xml
+Sitemap: https://brainworkup.io/sitemap.xml
