@@ -1,66 +1,31 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Writings",
+    "objectID": "src/pages/markdown-page.html",
+    "href": "src/pages/markdown-page.html",
+    "title": "Markdown Page",
     "section": "",
-    "text": "Brain Development Tutorial\n\n\nUnderstanding Brain Development: A Brief Guide for Parents\n\n\n\nneurodevelopment\n\n\n\nUnderstanding brain development is a journey, not a destination. By embracing the wonder of this process, we can become partners in our children’s growth, nurturing their potential and supporting them to blossom into happy, healthy individuals. \n\n\n\n\n\nDec 20, 2023\n\n\nJoey Trampush, PhD\n\n\n\n\n\n\n\n\n\n\n\n\nADHD Across the Lifespan\n\n\nEvaluating ADHD from childhood to adulthood\n\n\n\nadhd\n\n\nneurodevelopment\n\n\n\nFirst quarto post about ADHD. \n\n\n\n\n\nDec 13, 2023\n\n\nJoey Trampush, PhD\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome\n\n\nPublic Autopsy\n\n\n\nbrain2\n\n\n\nWelcome post. \n\n\n\n\n\nDec 11, 2023\n\n\nJoey Trampush, PhD\n\n\n\n\n\n\nNo matching items"
+    "text": "Markdown Page\nLorem ipsum dolor sit amet consectetur adipisicing elit. Vitae veniam repellat deleniti obcaecati facilis non, praesentium aperiam laudantium excepturi assumenda doloremque animi quis aliquam eligendi quia nemo asperiores et eaque, sunt voluptatibus, saepe exercitationem id. Quis sequi maxime fugiat nam reprehenderit nesciunt quaerat obcaecati, ipsa dignissimos voluptatum voluptatem, optio quidem quos repudiandae dolorem voluptatibus fuga officia odio nemo recusandae voluptas.\nconsole.log('Hello Accessible World!')\nLorem ipsum dolor sit amet consectetur adipisicing elit. Vitae veniam repellat deleniti obcaecati facilis non, praesentium aperiam laudantium excepturi assumenda doloremque animi quis aliquam eligendi quia nemo asperiores et eaque, sunt voluptatibus, saepe exercitationem id. Quis sequi maxime fugiat nam reprehenderit nesciunt quaerat obcaecati, ipsa dignissimos voluptatum voluptatem, optio quidem quos repudiandae dolorem voluptatibus fuga officia odio nemo recusandae voluptas.\nGet this theme on GitHub"
   },
   {
-    "objectID": "posts/2023-12-20-brain-development-tutorial/index.html",
-    "href": "posts/2023-12-20-brain-development-tutorial/index.html",
-    "title": "Brain Development Tutorial",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
     "section": "",
-    "text": "Raising a child is a journey filled with wonder, milestones, and sometimes, a healthy dose of confusion. One of the most fascinating aspects of this journey is the incredible transformation happening inside your child’s head – their brain is rapidly developing, shaping who they are and laying the foundation for their future.\nAs a parent, understanding this development can be both empowering and reassuring. It allows you to see beyond tantrums and meltdowns, recognizing them as natural steps in the brain’s complex dance. So, let’s grab a metaphorical flashlight and explore the key stages of brain development:\n\n\nImagine a construction site – that’s what’s happening in your baby’s brain. Billions of neurons are forming connections, creating the intricate pathways for learning and processing information. This is why play, interaction, and positive experiences are so crucial. Every coo, every giggle, every shared story strengthens these connections, laying the groundwork for future cognitive abilities.\n\n\n\nThink of this stage as a playground for the brain. Between the ages of 3 and 5, the prefrontal cortex, responsible for planning, decision-making, and impulse control, is rapidly developing. This is why imaginative play, with its emphasis on storytelling and pretend scenarios, is so important. It allows children to experiment with different roles, practice self-regulation, and build essential life skills.\n\n\n\nFrom building blocks to lego castles, the brain is now ready for more complex learning. This is where formal education comes in, but remember, it’s not just about memorizing facts. The brain is still forming connections, particularly in areas like language, memory, and problem-solving. Encourage curiosity, ask open-ended questions, and celebrate mistakes as learning opportunities.\n\n\n\nHold on tight, because the teenage brain is a rollercoaster! Hormones are surging, emotions are intense, and the prefrontal cortex is still under construction. This can lead to impulsiveness, risk-taking behavior, and emotional volatility. However, it’s also a time of incredible creativity, independence, and self-discovery. Provide support, set clear boundaries, and encourage open communication. Remember, the storm will eventually pass, leaving behind a stronger, more resilient brain.\n\n\nEvery child develops at their own pace. Don’t compare your child to others – their brain is on its own unique journey. Provide a safe, nurturing environment that fosters exploration, learning, and positive relationships. Be patient, consistent, and loving – your presence is the most powerful tool in shaping your child’s brain. Understanding brain development can ease anxieties, fuel your parenting decisions, and most importantly, strengthen the bond between you and your child. So, embrace the wonder, celebrate the milestones, and remember, you’re playing a vital role in building the incredible brain that will shape their future.\nThis is just the beginning of the exploration! Here are some additional resources to keep your brain-curious mind happy:\n\nBooks: “The Developing Brain” by David Eagleman, “The Whole-Brain Child” by Daniel J. Siegel\nWebsites: Zero to Three, the American Academy of Child & Adolescent Psychiatry\nPodcasts: “The Brainy Bunch,” “Brains On!”"
+    "text": "Welcome to my neuropsychology blog, a dedicated space where I will explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental and neuropsychiatric disorders.\nIn this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support.\n\n\n\nAs we navigate through various topics, special attention will be given to Attention-Deficit/Hyperactivity Disorder (ADHD), a condition often misunderstood and sometimes overlooked in its later onset during college years. The transition to college brings unique challenges, and for some, it’s also the time when symptoms of ADHD might first become prominent or disruptive. We will explore how to identify, manage, and support ADHD in this critical stage of life.\nExpect to find a blend of the latest research findings, practical advice, and real-life stories that illuminate the diverse experiences of those living with neuropsychological conditions. Whether you are a parent seeking guidance, a student navigating your own neuropsychological journey, or a fellow professional in the field, this blog aims to be a resourceful and enlightening hub.\nTogether, we will unravel the complexities of the brain and behavior, foster a deeper understanding of neuropsychological disorders, and advocate for effective strategies to support those affected. I invite you to join me in this exploration, to learn, share, and contribute to our growing knowledge in this vital field.\nRemember, this blog is not just a collection of posts, but a growing community eager to learn and support each other. So, whether you’re here to find answers, share experiences, or simply to satisfy your curiosity about neuropsychology, you’re in the right place."
   },
   {
-    "objectID": "posts/2023-12-20-brain-development-tutorial/index.html#early-years-0-3-the-building-blocks",
-    "href": "posts/2023-12-20-brain-development-tutorial/index.html#early-years-0-3-the-building-blocks",
-    "title": "Brain Development Tutorial",
+    "objectID": "index.html#intro",
+    "href": "index.html#intro",
+    "title": "About",
     "section": "",
-    "text": "Imagine a construction site – that’s what’s happening in your baby’s brain. Billions of neurons are forming connections, creating the intricate pathways for learning and processing information. This is why play, interaction, and positive experiences are so crucial. Every coo, every giggle, every shared story strengthens these connections, laying the groundwork for future cognitive abilities."
+    "text": "Welcome to my neuropsychology blog, a dedicated space where I will explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental and neuropsychiatric disorders.\nIn this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support."
   },
   {
-    "objectID": "posts/2023-12-20-brain-development-tutorial/index.html#preschool-3-5-the-power-of-play",
-    "href": "posts/2023-12-20-brain-development-tutorial/index.html#preschool-3-5-the-power-of-play",
-    "title": "Brain Development Tutorial",
+    "objectID": "index.html#content",
+    "href": "index.html#content",
+    "title": "About",
     "section": "",
-    "text": "Think of this stage as a playground for the brain. Between the ages of 3 and 5, the prefrontal cortex, responsible for planning, decision-making, and impulse control, is rapidly developing. This is why imaginative play, with its emphasis on storytelling and pretend scenarios, is so important. It allows children to experiment with different roles, practice self-regulation, and build essential life skills."
-  },
-  {
-    "objectID": "posts/2023-12-20-brain-development-tutorial/index.html#school-age-6-12-learning-in-full-bloom",
-    "href": "posts/2023-12-20-brain-development-tutorial/index.html#school-age-6-12-learning-in-full-bloom",
-    "title": "Brain Development Tutorial",
-    "section": "",
-    "text": "From building blocks to lego castles, the brain is now ready for more complex learning. This is where formal education comes in, but remember, it’s not just about memorizing facts. The brain is still forming connections, particularly in areas like language, memory, and problem-solving. Encourage curiosity, ask open-ended questions, and celebrate mistakes as learning opportunities."
-  },
-  {
-    "objectID": "posts/2023-12-20-brain-development-tutorial/index.html#adolescence-13-19-navigating-the-stormy-seas",
-    "href": "posts/2023-12-20-brain-development-tutorial/index.html#adolescence-13-19-navigating-the-stormy-seas",
-    "title": "Brain Development Tutorial",
-    "section": "",
-    "text": "Hold on tight, because the teenage brain is a rollercoaster! Hormones are surging, emotions are intense, and the prefrontal cortex is still under construction. This can lead to impulsiveness, risk-taking behavior, and emotional volatility. However, it’s also a time of incredible creativity, independence, and self-discovery. Provide support, set clear boundaries, and encourage open communication. Remember, the storm will eventually pass, leaving behind a stronger, more resilient brain.\n\n\nEvery child develops at their own pace. Don’t compare your child to others – their brain is on its own unique journey. Provide a safe, nurturing environment that fosters exploration, learning, and positive relationships. Be patient, consistent, and loving – your presence is the most powerful tool in shaping your child’s brain. Understanding brain development can ease anxieties, fuel your parenting decisions, and most importantly, strengthen the bond between you and your child. So, embrace the wonder, celebrate the milestones, and remember, you’re playing a vital role in building the incredible brain that will shape their future.\nThis is just the beginning of the exploration! Here are some additional resources to keep your brain-curious mind happy:\n\nBooks: “The Developing Brain” by David Eagleman, “The Whole-Brain Child” by Daniel J. Siegel\nWebsites: Zero to Three, the American Academy of Child & Adolescent Psychiatry\nPodcasts: “The Brainy Bunch,” “Brains On!”"
-  },
-  {
-    "objectID": "posts/2023-12-11-welcome/index.html",
-    "href": "posts/2023-12-11-welcome/index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Welcome to my neuropsychology blog, a dedicated space where we explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental and neuropsychiatric disorders.\nIn this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support."
-  },
-  {
-    "objectID": "posts/2023-12-11-welcome/index.html#hello",
-    "href": "posts/2023-12-11-welcome/index.html#hello",
-    "title": "Welcome",
-    "section": "",
-    "text": "Welcome to my neuropsychology blog, a dedicated space where we explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental and neuropsychiatric disorders.\nIn this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support."
-  },
-  {
-    "objectID": "posts/2023-12-11-welcome/index.html#content",
-    "href": "posts/2023-12-11-welcome/index.html#content",
-    "title": "Welcome",
-    "section": "Content",
-    "text": "Content\nAs we navigate through various topics, special attention will be given to Attention-Deficit/Hyperactivity Disorder (ADHD), a condition often misunderstood and sometimes overlooked in its later onset during college years. The transition to college brings unique challenges, and for some, it’s also the time when symptoms of ADHD might first become prominent or disruptive. We will explore how to identify, manage, and support ADHD in this critical stage of life.\nExpect to find a blend of the latest research findings, practical advice, and real-life stories that illuminate the diverse experiences of those living with neuropsychological conditions. Whether you are a parent seeking guidance, a student navigating your own neuropsychological journey, or a fellow professional in the field, this blog aims to be a resourceful and enlightening hub.\nTogether, we will unravel the complexities of the brain and behavior, foster a deeper understanding of neuropsychological disorders, and advocate for effective strategies to support those affected. I invite you to join me in this exploration, to learn, share, and contribute to our growing knowledge in this vital field.\nRemember, this blog is not just a collection of posts, but a growing community eager to learn and support each other. So, whether you’re here to find answers, share experiences, or simply to satisfy your curiosity about neuropsychology, you’re in the right place. Welcome aboard!"
+    "text": "As we navigate through various topics, special attention will be given to Attention-Deficit/Hyperactivity Disorder (ADHD), a condition often misunderstood and sometimes overlooked in its later onset during college years. The transition to college brings unique challenges, and for some, it’s also the time when symptoms of ADHD might first become prominent or disruptive. We will explore how to identify, manage, and support ADHD in this critical stage of life.\nExpect to find a blend of the latest research findings, practical advice, and real-life stories that illuminate the diverse experiences of those living with neuropsychological conditions. Whether you are a parent seeking guidance, a student navigating your own neuropsychological journey, or a fellow professional in the field, this blog aims to be a resourceful and enlightening hub.\nTogether, we will unravel the complexities of the brain and behavior, foster a deeper understanding of neuropsychological disorders, and advocate for effective strategies to support those affected. I invite you to join me in this exploration, to learn, share, and contribute to our growing knowledge in this vital field.\nRemember, this blog is not just a collection of posts, but a growing community eager to learn and support each other. So, whether you’re here to find answers, share experiences, or simply to satisfy your curiosity about neuropsychology, you’re in the right place."
   },
   {
     "objectID": "posts/2023-12-13-adhd-post/index.html",
@@ -119,24 +84,66 @@
     "text": "ADHD in Older Adults\nADHD in older adults is an emerging area of interest. Our assessments consider the unique aspects of ADHD in later life, including how it interacts with aging processes and other health conditions. We provide tailored strategies to manage symptoms and maintain a high quality of life."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
+    "objectID": "posts/2023-12-11-welcome/index.html",
+    "href": "posts/2023-12-11-welcome/index.html",
+    "title": "Welcome",
     "section": "",
     "text": "Welcome to my neuropsychology blog, a dedicated space where we explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental and neuropsychiatric disorders.\nIn this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support."
   },
   {
-    "objectID": "index.html#intro",
-    "href": "index.html#intro",
-    "title": "About",
+    "objectID": "posts/2023-12-11-welcome/index.html#hello",
+    "href": "posts/2023-12-11-welcome/index.html#hello",
+    "title": "Welcome",
     "section": "",
     "text": "Welcome to my neuropsychology blog, a dedicated space where we explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental and neuropsychiatric disorders.\nIn this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support."
   },
   {
-    "objectID": "index.html#content",
-    "href": "index.html#content",
-    "title": "About",
+    "objectID": "posts/2023-12-11-welcome/index.html#content",
+    "href": "posts/2023-12-11-welcome/index.html#content",
+    "title": "Welcome",
     "section": "Content",
-    "text": "Content\nAs we navigate through various topics, special attention will be given to Attention-Deficit/Hyperactivity Disorder (ADHD), a condition often misunderstood and sometimes overlooked in its later onset during college years. The transition to college brings unique challenges, and for some, it’s also the time when symptoms of ADHD might first become prominent or disruptive. We will explore how to identify, manage, and support ADHD in this critical stage of life.\nExpect to find a blend of the latest research findings, practical advice, and real-life stories that illuminate the diverse experiences of those living with neuropsychological conditions. Whether you are a parent seeking guidance, a student navigating your own neuropsychological journey, or a fellow professional in the field, this blog aims to be a resourceful and enlightening hub.\nTogether, we will unravel the complexities of the brain and behavior, foster a deeper understanding of neuropsychological disorders, and advocate for effective strategies to support those affected. I invite you to join me in this exploration, to learn, share, and contribute to our growing knowledge in this vital field.\nRemember, this blog is not just a collection of posts, but a growing community eager to learn and support each other. So, whether you’re here to find answers, share experiences, or simply to satisfy your curiosity about neuropsychology, you’re in the right place."
+    "text": "Content\nAs we navigate through various topics, special attention will be given to Attention-Deficit/Hyperactivity Disorder (ADHD), a condition often misunderstood and sometimes overlooked in its later onset during college years. The transition to college brings unique challenges, and for some, it’s also the time when symptoms of ADHD might first become prominent or disruptive. We will explore how to identify, manage, and support ADHD in this critical stage of life.\nExpect to find a blend of the latest research findings, practical advice, and real-life stories that illuminate the diverse experiences of those living with neuropsychological conditions. Whether you are a parent seeking guidance, a student navigating your own neuropsychological journey, or a fellow professional in the field, this blog aims to be a resourceful and enlightening hub.\nTogether, we will unravel the complexities of the brain and behavior, foster a deeper understanding of neuropsychological disorders, and advocate for effective strategies to support those affected. I invite you to join me in this exploration, to learn, share, and contribute to our growing knowledge in this vital field.\nRemember, this blog is not just a collection of posts, but a growing community eager to learn and support each other. So, whether you’re here to find answers, share experiences, or simply to satisfy your curiosity about neuropsychology, you’re in the right place. Welcome aboard!"
+  },
+  {
+    "objectID": "posts/2023-12-20-brain-development-tutorial/index.html",
+    "href": "posts/2023-12-20-brain-development-tutorial/index.html",
+    "title": "Brain Development Tutorial",
+    "section": "",
+    "text": "Raising a child is a journey filled with wonder, milestones, and sometimes, a healthy dose of confusion. One of the most fascinating aspects of this journey is the incredible transformation happening inside your child’s head – their brain is rapidly developing, shaping who they are and laying the foundation for their future.\nAs a parent, understanding this development can be both empowering and reassuring. It allows you to see beyond tantrums and meltdowns, recognizing them as natural steps in the brain’s complex dance. So, let’s grab a metaphorical flashlight and explore the key stages of brain development:\n\n\nImagine a construction site – that’s what’s happening in your baby’s brain. Billions of neurons are forming connections, creating the intricate pathways for learning and processing information. This is why play, interaction, and positive experiences are so crucial. Every coo, every giggle, every shared story strengthens these connections, laying the groundwork for future cognitive abilities.\n\n\n\nThink of this stage as a playground for the brain. Between the ages of 3 and 5, the prefrontal cortex, responsible for planning, decision-making, and impulse control, is rapidly developing. This is why imaginative play, with its emphasis on storytelling and pretend scenarios, is so important. It allows children to experiment with different roles, practice self-regulation, and build essential life skills.\n\n\n\nFrom building blocks to lego castles, the brain is now ready for more complex learning. This is where formal education comes in, but remember, it’s not just about memorizing facts. The brain is still forming connections, particularly in areas like language, memory, and problem-solving. Encourage curiosity, ask open-ended questions, and celebrate mistakes as learning opportunities.\n\n\n\nHold on tight, because the teenage brain is a rollercoaster! Hormones are surging, emotions are intense, and the prefrontal cortex is still under construction. This can lead to impulsiveness, risk-taking behavior, and emotional volatility. However, it’s also a time of incredible creativity, independence, and self-discovery. Provide support, set clear boundaries, and encourage open communication. Remember, the storm will eventually pass, leaving behind a stronger, more resilient brain.\n\n\nEvery child develops at their own pace. Don’t compare your child to others – their brain is on its own unique journey. Provide a safe, nurturing environment that fosters exploration, learning, and positive relationships. Be patient, consistent, and loving – your presence is the most powerful tool in shaping your child’s brain. Understanding brain development can ease anxieties, fuel your parenting decisions, and most importantly, strengthen the bond between you and your child. So, embrace the wonder, celebrate the milestones, and remember, you’re playing a vital role in building the incredible brain that will shape their future.\nThis is just the beginning of the exploration! Here are some additional resources to keep your brain-curious mind happy:\n\nBooks: “The Developing Brain” by David Eagleman, “The Whole-Brain Child” by Daniel J. Siegel\nWebsites: Zero to Three, the American Academy of Child & Adolescent Psychiatry\nPodcasts: “The Brainy Bunch,” “Brains On!”"
+  },
+  {
+    "objectID": "posts/2023-12-20-brain-development-tutorial/index.html#early-years-0-3-the-building-blocks",
+    "href": "posts/2023-12-20-brain-development-tutorial/index.html#early-years-0-3-the-building-blocks",
+    "title": "Brain Development Tutorial",
+    "section": "",
+    "text": "Imagine a construction site – that’s what’s happening in your baby’s brain. Billions of neurons are forming connections, creating the intricate pathways for learning and processing information. This is why play, interaction, and positive experiences are so crucial. Every coo, every giggle, every shared story strengthens these connections, laying the groundwork for future cognitive abilities."
+  },
+  {
+    "objectID": "posts/2023-12-20-brain-development-tutorial/index.html#preschool-3-5-the-power-of-play",
+    "href": "posts/2023-12-20-brain-development-tutorial/index.html#preschool-3-5-the-power-of-play",
+    "title": "Brain Development Tutorial",
+    "section": "",
+    "text": "Think of this stage as a playground for the brain. Between the ages of 3 and 5, the prefrontal cortex, responsible for planning, decision-making, and impulse control, is rapidly developing. This is why imaginative play, with its emphasis on storytelling and pretend scenarios, is so important. It allows children to experiment with different roles, practice self-regulation, and build essential life skills."
+  },
+  {
+    "objectID": "posts/2023-12-20-brain-development-tutorial/index.html#school-age-6-12-learning-in-full-bloom",
+    "href": "posts/2023-12-20-brain-development-tutorial/index.html#school-age-6-12-learning-in-full-bloom",
+    "title": "Brain Development Tutorial",
+    "section": "",
+    "text": "From building blocks to lego castles, the brain is now ready for more complex learning. This is where formal education comes in, but remember, it’s not just about memorizing facts. The brain is still forming connections, particularly in areas like language, memory, and problem-solving. Encourage curiosity, ask open-ended questions, and celebrate mistakes as learning opportunities."
+  },
+  {
+    "objectID": "posts/2023-12-20-brain-development-tutorial/index.html#adolescence-13-19-navigating-the-stormy-seas",
+    "href": "posts/2023-12-20-brain-development-tutorial/index.html#adolescence-13-19-navigating-the-stormy-seas",
+    "title": "Brain Development Tutorial",
+    "section": "",
+    "text": "Hold on tight, because the teenage brain is a rollercoaster! Hormones are surging, emotions are intense, and the prefrontal cortex is still under construction. This can lead to impulsiveness, risk-taking behavior, and emotional volatility. However, it’s also a time of incredible creativity, independence, and self-discovery. Provide support, set clear boundaries, and encourage open communication. Remember, the storm will eventually pass, leaving behind a stronger, more resilient brain.\n\n\nEvery child develops at their own pace. Don’t compare your child to others – their brain is on its own unique journey. Provide a safe, nurturing environment that fosters exploration, learning, and positive relationships. Be patient, consistent, and loving – your presence is the most powerful tool in shaping your child’s brain. Understanding brain development can ease anxieties, fuel your parenting decisions, and most importantly, strengthen the bond between you and your child. So, embrace the wonder, celebrate the milestones, and remember, you’re playing a vital role in building the incredible brain that will shape their future.\nThis is just the beginning of the exploration! Here are some additional resources to keep your brain-curious mind happy:\n\nBooks: “The Developing Brain” by David Eagleman, “The Whole-Brain Child” by Daniel J. Siegel\nWebsites: Zero to Three, the American Academy of Child & Adolescent Psychiatry\nPodcasts: “The Brainy Bunch,” “Brains On!”"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Writings",
+    "section": "",
+    "text": "Brain Development Tutorial\n\n\nUnderstanding Brain Development: A Brief Guide for Parents\n\n\n\nneurodevelopment\n\n\n\nUnderstanding brain development is a journey, not a destination. By embracing the wonder of this process, we can become partners in our children’s growth, nurturing their potential and supporting them to blossom into happy, healthy individuals. \n\n\n\n\n\nDec 20, 2023\n\n\nJoey Trampush, PhD\n\n\n\n\n\n\n\n\n\n\n\n\nADHD Across the Lifespan\n\n\nEvaluating ADHD from childhood to adulthood\n\n\n\nadhd\n\n\nneurodevelopment\n\n\n\nFirst quarto post about ADHD. \n\n\n\n\n\nDec 13, 2023\n\n\nJoey Trampush, PhD\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome\n\n\nPublic Autopsy\n\n\n\nbrain2\n\n\n\nWelcome post. \n\n\n\n\n\nDec 11, 2023\n\n\nJoey Trampush, PhD\n\n\n\n\n\n\nNo matching items"
   }
 ]

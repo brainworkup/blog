@@ -1,23 +1,7 @@
-.history/_quarto_20240109020224.yml
-.history/_quarto_20240109020536.yml
-.history/_quarto_20240109020644.yml
-.history/_quarto_20240109020749.yml
-.history/_quarto_20240109020902.yml
-.history/_quarto_20240109020942.yml
-.history/_quarto_20240109022842.yml
-.history/blog_20240109020224.qmd
-.history/blog_20240109021457.qmd
-.history/blog_20240109022236.qmd
-.history/index_20240109020224.qmd
-.history/index_20240109022655.qmd
-.history/posts/_metadata_20240109021337.yml
-.history/posts/_metadata_20240109022330.yml
-.vscode/settings.json
-
 /.quarto/
 # site_libs/
 # docs/
-/.quarto/
+
 /.vscode/
 .history/
 # images/
@@ -109,12 +93,31 @@ transparent_colors.txt
 images/adhd.png
 images/bwu-logo-transparent.png
 # images/jwt_fitted.jpg
-images/jwt_fitted2.jpg
-_images/
-_prompts.md
-images/DALL·E 2023-12-22 03.05.55 - Create a favicon with a yellow stylized brain design inside a black circle. The design should be clean and without any text, suitable for a favicon fo.png
-images/DALL·E 2023-12-22 03.13.47 - Design a favicon featuring an abstract image of a brain. The brain should convey a sense of pondering outer space. Use a color palette that includes b.png
-images/DALL·E 2023-12-22 03.13.45 - Design a favicon featuring an abstract image of a brain. The brain should convey a sense of pondering outer space. Use a color palette that includes b.png
-services/adult-neuropsychology/adults.png
-services/forensic-neuropsychology/forensic.png
 
+# build output
+dist
+
+# dependencies
+node_modules/
+.snowpack/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# vscode settings and dictionaries
+.vscode
+
+# webstorm settings and dictionaries
+.idea
+
+# package lock
+package-lock.json

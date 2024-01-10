@@ -7,10 +7,13 @@ website:
   site-url: https://brainworkup.io/
   image: images/logo.png
   favicon: images/favicon.png
+  search:
+    location: navbar
+    type: overlay
   navbar:
-    title: "**bwu blog**"
+    title: "**blog**"
     left:
-      - text: "Articles"
+      - text: "posts"
         href: blog.qmd
     tools:
       - icon: github
@@ -31,5 +34,5 @@ website:
 
 format:
   html:
-    css: css/biggie-tailwind.css #css/styles.css
-    theme: [css/slate.scss, src/theme.scss]
+    css: [css/modern-normalize.css, css/styles.css]
+    theme: [sandstone, styles/theme.scss]

@@ -1,36 +1,20 @@
 ---
-title: "About"
-image: images/biggie-600.jpg
-about:
-  template: broadside
-  links:
-    - icon: github
-      href: https://github.com/brainworkup/brainworkup/
-      aria-label: Github
-    - icon: twitter
-      href: https://twitter.com/brainworkup/
-      aria-label: Twitter
-    - icon: instagram
-      href: https://instagram.com/brainworkup/
-      aria-label: Instagram
-    - icon: linkedin
-      aria-label: LinkedIn
-      href: https://www.linkedin.com/in/joey-trampush-brainworkup/
-    - icon: rss
-      href: https://brainworkup.org/blog/index.xml
-      aria-label: RSS
 page-layout: full
-# include-after-body:
-#   - file: signup.html
+include-after-body:
+  - file: signup.html
 title-block-banner: true
 title-block-banner-color: "rgba(173, 255, 47, 1)" #"#d4eb50"
 title-block-style: default
 ---
 
 ::: {.g-col-12 .g-col-md-6}
+![](images/biggie-600.jpg){width=400px, height=400px}
+:::
+
+::: {.g-col-12 .g-col-md-6}
 ## Intro
 
-Welcome to my neuropsychology blog, a dedicated space where I will explore the
+Welcome to my neuropsychology blog, a dedicated space where we explore the
 intricacies of pediatric and developmental neuropsychology, and delve into the
 complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental
 and neuropsychiatric disorders.
@@ -49,5 +33,19 @@ Remember, this blog is not just a collection of posts, but a growing community e
 
 :::
 
+::: {.g-col-12 .g-col-md-5 .g-start-md-2}
+# Data Visualization
 
+- Blog post 1
+- Blog post 2
+- Blog post 3
+:::
 
+::: {.g-col-12 .g-col-md-5}
+# Stats/ML
+
+- This div...
+- ...required...
+- ...no offset (it's still in the first row)
+
+:::
