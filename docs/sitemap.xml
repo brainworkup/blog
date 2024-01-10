@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brainworkup.io/blog.html</loc>
-    <lastmod>2024-01-10T05:13:16.232Z</lastmod>
+    <loc>https://brainworkup.github.io/blog/blog.html</loc>
+    <lastmod>2024-01-10T05:21:56.539Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.io/posts/2023-12-20-brain-development-tutorial/index.html</loc>
+    <loc>https://brainworkup.github.io/blog/posts/2023-12-20-brain-development-tutorial/index.html</loc>
     <lastmod>2024-01-09T09:28:47.619Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.io/posts/2023-12-11-welcome/index.html</loc>
+    <loc>https://brainworkup.github.io/blog/posts/2023-12-11-welcome/index.html</loc>
     <lastmod>2024-01-09T09:28:47.593Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.io/posts/2023-12-13-adhd-post/index.html</loc>
+    <loc>https://brainworkup.github.io/blog/posts/2023-12-13-adhd-post/index.html</loc>
     <lastmod>2024-01-09T09:28:47.596Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.io/index.html</loc>
+    <loc>https://brainworkup.github.io/blog/index.html</loc>
     <lastmod>2024-01-10T04:56:20.124Z</lastmod>
   </url>
 </urlset>

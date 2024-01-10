@@ -4,7 +4,8 @@ project:
 
 website:
   title: "blog"
-  site-url: https://brainworkup.io/
+  site-url: https://brainworkup.github.io/blog/
+  repo-url: https://github.com/brainworkup/blog
   image: images/logo.png
   favicon: images/favicon.png
   search:
